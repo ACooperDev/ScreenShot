@@ -6,7 +6,8 @@ using System.Drawing;
 using Cognex.VisionPro;
 using System.Drawing.Imaging;
 using System.Windows.Forms;
- //Designer plugin to screenshot.
+
+//Designer plugin to screenshot.
 namespace VPDLSupplement
 {
     [Cognex.Designer.Core.DisplayName("ScreenShot")]
